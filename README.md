@@ -145,8 +145,7 @@ deepseek4free/
 ---
 
 ## Original project
-
-Based on [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free).  
+  
 This fork/package adds a stable OpenAI proxy, fixes for newer Python versions, and Harness-friendly request handling.
 
 ---
